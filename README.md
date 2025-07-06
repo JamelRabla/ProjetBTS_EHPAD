@@ -1,6 +1,6 @@
 # 💡 Lifeguard — Prototype Web pour Bracelet Connecté
 
-Dans le cadre de notre projet de **BTS Services Informatiques aux Organisations**, nous avons imaginé et réalisé une interface web responsive dédiée à la gestion d’un **bracelet connecté**, en collaboration avec l’**EHPAD de Hootscoot**.
+Dans le cadre de notre projet de **BTS SNIR**, nous avons imaginé et réalisé une interface web responsive dédiée à la gestion d’un **bracelet connecté**, en collaboration avec l’**EHPAD de Zuydcoote**.
 
 Ce bracelet vise à améliorer le **suivi de l’état de santé des résidents** à travers une **base de données centralisée**, permettant au personnel soignant un accès rapide et intuitif aux informations importantes (activité, alertes, indicateurs de santé...).
 
