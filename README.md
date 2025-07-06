@@ -10,13 +10,9 @@ Ce site web est une **première maquette visuelle** du système final, pensée p
 
 ## 🔍 Présentation
 
-![Capture Lifeguard](https://user-images.githubusercontent.com/71099757/131668021-9e24f2e9-c554-43a9-b4e1-c97a3e102439.png)
+![Capture Lifeguard](https://i.ibb.co/TBt92J3J/lifeMain.png)
 
----
-
-## 🖥️ Aperçu de la page complète
-
-![Web capture](https://user-images.githubusercontent.com/71099757/131667998-dd8a1a92-1373-4d29-b3ee-8260a4bb6a1e.jpeg)
+<a href="https://ibb.co/mC4fTdWd"><img src="https://i.ibb.co/TBt92J3J/lifeMain.png" alt="lifeMain" border="0"></a>
 
 ---
 
