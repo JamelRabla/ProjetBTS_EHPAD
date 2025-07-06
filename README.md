@@ -8,14 +8,6 @@ Ce site web est une **première maquette visuelle** du système final, pensée p
 
 ---
 
-## 🔍 Présentation
-
-![Capture Lifeguard](https://i.ibb.co/TBt92J3J/lifeMain.png)
-
-<a href="https://ibb.co/mC4fTdWd"><img src="https://i.ibb.co/TBt92J3J/lifeMain.png" alt="lifeMain" border="0"></a>
-
----
-
 ## ✨ Fonctionnalités principales
 
 - ✅ En-tête responsive (Flexbox)  
